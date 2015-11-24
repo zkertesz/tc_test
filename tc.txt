@@ -1,0 +1,3 @@
+TeamCity integration test
+version 1
+
